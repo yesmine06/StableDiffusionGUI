@@ -53,7 +53,9 @@ Entrée Textuelle : Saisissez la description de l'image que vous souhaitez gén�
 Générer l'Image : Appuyez sur le bouton "Générer" pour créer l'image à partir du texte.
 Barre de Progression : Une barre de progression s'affichera pendant la génération de l'image.
 Sauvegarder l'Image : Vous pouvez sauvegarder l'image générée sur votre machine.
+
 Dépendances
+
 Ce projet utilise les bibliothèques suivantes :
 
 torch : Framework de machine learning pour le calcul numérique et le deep learning.
