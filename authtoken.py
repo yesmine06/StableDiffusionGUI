@@ -1,1 +1,5 @@
-auth_token = "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"
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+auth_token = os.getenv("AUTH_TOKEN")
